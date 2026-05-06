@@ -1,0 +1,16 @@
+# Power BI files (büyük, repo'ya gerek yok)
+*.pbix
+*.pbit
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Çözüm — repo'ya GİTMEZ
+_solution/
+
+# Misc
+*.log
+~$*
