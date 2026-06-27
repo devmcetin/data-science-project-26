@@ -1,5 +1,4 @@
 # Power BI files (büyük, repo'ya gerek yok)
-*.pbix
 *.pbit
 
 # OS / IDE
